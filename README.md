@@ -1,1 +1,2 @@
 # song-popularity-classification
+This project explores how machine learning models can be used to classify songs as popular or not based on audio features using a dataset from Spotify on song popularity. The target is to predict whether a song is popular (defined as having a popularity score ≥ 80) using features like duration and instrumentalness. Work completed for CS 3262 at Vanderbilt University.
